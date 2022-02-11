@@ -1,5 +1,9 @@
 # Learn React.JS :: Simple Calculator App
 
+This is a simple calculator app implementation with React.JS library. Developed as a result of [Build Calculator with React.JS Tutorial](https://www.youtube.com/watch?v=oiX-6Y2oGjI)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
