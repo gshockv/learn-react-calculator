@@ -2,7 +2,7 @@
 
 This is a simple calculator app implementation with React.JS library. Developed as a result of [Build Calculator with React.JS Tutorial](https://www.youtube.com/watch?v=oiX-6Y2oGjI)
 
-
+![](https://https://github.com/gshockv/learn-react-calculator/blob/master/public/react-calc-screenshot.png)
 
 # Getting Started with Create React App
 
